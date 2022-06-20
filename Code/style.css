@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+}
+header {
+    background-color: blue;
+}
+header > h1 {
+    text-align: center;
+    color: white;
+}
+header a {
+    color : white;
+}
+li a {
+    color: black;
+    text-decoration: none;
+}
